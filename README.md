@@ -1,7 +1,7 @@
 Huzzah! shiftr…
 ===============
 
-Example using the mqtt protocol on a adafruit huzzah board to connect to [shiftr.io](https://shiftr.io/)(a [MQTT](http://mqtt.org/) brkoer with nice interface). Based on [these sketches](https://github.com/IAD-ZHDK/ShifterBit) by [Joël Gähwiler @256dpi](https://github.com/256dpi).  
+Example using the mqtt protocol on a adafruit huzzah board to connect to [shiftr.io](https://shiftr.io/) (a [MQTT](http://mqtt.org/) brkoer with nice interface). Based on [these sketches](https://github.com/IAD-ZHDK/ShifterBit) by [Joël Gähwiler @256dpi](https://github.com/256dpi).  
 
 ## Links  
 
